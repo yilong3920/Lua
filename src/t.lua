@@ -1,0 +1,4 @@
+require("module")-- ¼ÓÔØmodule.lua Ä£¿é
+print(module.con)
+module.fun3()
+module.fun2()
