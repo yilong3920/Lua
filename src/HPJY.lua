@@ -547,8 +547,6 @@ function pubg:onEvent(event, arg, family)
 
 
 
-
-
     if event == 'M_RELEASED' and arg == mouse.BUTTON_VIRTUAL_3 then
 
         self:antiShootSingle(event, arg, family)
